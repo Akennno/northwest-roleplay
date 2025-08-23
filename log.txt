@@ -1,0 +1,2802 @@
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-boilerplate\components
+[04/08/2025 19:35:18] [Info] Loading plugin: mysql
+[04/08/2025 19:35:18] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[04/08/2025 19:35:18] [Info] Loading plugin: PawnPlus
+[04/08/2025 19:35:18] [Info]  PawnPlus v1.5.1 loaded
+[04/08/2025 19:35:18] [Info]  Created by IS4
+[04/08/2025 19:35:18] [Info] Loading plugin: samp_bcrypt
+[04/08/2025 19:35:18] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[04/08/2025 19:35:18] [Info] >-------------------------------------------<
+[04/08/2025 19:35:18] [Info] >> Northwest Open.MP version N:1.0
+[04/08/2025 19:35:18] [Info] >> Author: github.com/Akennno
+[04/08/2025 19:35:18] [Info] >> Copyright (c) 2025, All rights reversed
+[04/08/2025 19:35:18] [Info] >-------------------------------------------<
+[04/08/2025 19:35:18] [Info] [N:MYSQL]: Connecting to MySQL server
+[04/08/2025 19:35:35] [Info] [N:MYSQL]: Connection refused
+[N:MYSQL]: Reason: Can't connect to MySQL server on 'localhost' (10061)
+[04/08/2025 19:35:35] [Info] [N:MYSQL]: Server automatically shutting down
+[04/08/2025 19:35:35] [Info] Legacy Network started on port 7777
+[04/08/2025 19:35:35] [Info] plugin.mysql: Unloading plugin...
+[04/08/2025 19:35:35] [Info] plugin.mysql: Plugin unloaded.
+[04/08/2025 19:35:35] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[12/08/2025 20:16:57] [Info] Loading plugin: mysql
+[12/08/2025 20:16:57] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12/08/2025 20:16:57] [Info] Loading plugin: PawnPlus
+[12/08/2025 20:16:57] [Info]  PawnPlus v1.5.1 loaded
+[12/08/2025 20:16:57] [Info]  Created by IS4
+[12/08/2025 20:16:57] [Info] Loading plugin: samp_bcrypt
+[12/08/2025 20:16:57] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[12/08/2025 20:16:57] [Info] HelloWorld
+[12/08/2025 20:16:57] [Info] HelloWorld
+[12/08/2025 20:16:57] [Info] HelloWorld
+[12/08/2025 20:16:57] [Info] Legacy Network started on port 7777
+[12/08/2025 20:16:58] [Warning] Couldn't announce legacy network to open.mp list.
+[12/08/2025 20:16:58] [Warning] 	 Status: 406
+[12/08/2025 20:16:58] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:39826-\u003e103.176.94.251:7777: read: connection refused"}
+[12/08/2025 20:16:58] [Warning] This won't affect the server's behaviour.
+[12/08/2025 20:17:37] [Info] plugin.mysql: Unloading plugin...
+[12/08/2025 20:17:37] [Info] plugin.mysql: Plugin unloaded.
+[12/08/2025 20:17:37] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[12/08/2025 20:17:45] [Info] Loading plugin: mysql
+[12/08/2025 20:17:45] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12/08/2025 20:17:45] [Info] Loading plugin: PawnPlus
+[12/08/2025 20:17:45] [Info]  PawnPlus v1.5.1 loaded
+[12/08/2025 20:17:45] [Info]  Created by IS4
+[12/08/2025 20:17:45] [Info] Loading plugin: samp_bcrypt
+[12/08/2025 20:17:45] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[12/08/2025 20:17:45] [Info] HelloWorld
+[12/08/2025 20:17:45] [Info] HelloWorld
+[12/08/2025 20:17:45] [Info] HelloWorld
+[12/08/2025 20:17:45] [Info] Legacy Network started on port 7777
+[12/08/2025 20:17:45] [Warning] Couldn't announce legacy network to open.mp list.
+[12/08/2025 20:17:45] [Warning] 	 Status: 406
+[12/08/2025 20:17:45] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:35993-\u003e103.176.94.251:7777: read: connection refused"}
+[12/08/2025 20:17:45] [Warning] This won't affect the server's behaviour.
+[12/08/2025 20:17:59] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 19:26:16] [Info] Loading plugin: mysql
+[13/08/2025 19:26:16] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 19:26:16] [Info] Loading plugin: PawnPlus
+[13/08/2025 19:26:16] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 19:26:16] [Info]  Created by IS4
+[13/08/2025 19:26:16] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 19:26:16] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 19:26:16] [Info] 
+[13/08/2025 19:26:16] [Info] Legacy Network started on port 7777
+[13/08/2025 19:26:16] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 19:26:16] [Warning] 	 Status: 406
+[13/08/2025 19:26:16] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:56472-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 19:26:16] [Warning] This won't affect the server's behaviour.
+[13/08/2025 19:26:22] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 19:26:22] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 19:26:22] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 19:26:37] [Info] Loading plugin: mysql
+[13/08/2025 19:26:37] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 19:26:37] [Info] Loading plugin: PawnPlus
+[13/08/2025 19:26:37] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 19:26:37] [Info]  Created by IS4
+[13/08/2025 19:26:37] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 19:26:37] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 19:26:37] [Info] 
+[13/08/2025 19:26:37] [Info] Legacy Network started on port 7777
+[13/08/2025 19:26:38] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 19:26:38] [Warning] 	 Status: 406
+[13/08/2025 19:26:38] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:53311-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 19:26:38] [Warning] This won't affect the server's behaviour.
+[13/08/2025 19:26:40] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 19:26:40] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 19:26:40] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 19:27:26] [Info] Loading plugin: mysql
+[13/08/2025 19:27:26] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 19:27:26] [Info] Loading plugin: PawnPlus
+[13/08/2025 19:27:26] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 19:27:26] [Info]  Created by IS4
+[13/08/2025 19:27:26] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 19:27:26] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 19:27:26] [Info] 
+[13/08/2025 19:27:26] [Info] Legacy Network started on port 7777
+[13/08/2025 19:27:27] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 19:27:27] [Warning] 	 Status: 406
+[13/08/2025 19:27:27] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:59851-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 19:27:27] [Warning] This won't affect the server's behaviour.
+[13/08/2025 19:27:55] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 19:27:55] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 19:27:55] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 19:27:57] [Info] Loading plugin: mysql
+[13/08/2025 19:27:57] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 19:27:57] [Info] Loading plugin: PawnPlus
+[13/08/2025 19:27:57] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 19:27:57] [Info]  Created by IS4
+[13/08/2025 19:27:57] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 19:27:57] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 19:27:57] [Info] 3
+
+[13/08/2025 19:27:57] [Info] 4
+
+[13/08/2025 19:27:57] [Info] 2
+
+[13/08/2025 19:27:57] [Info] 2
+
+[13/08/2025 19:27:57] [Info] Legacy Network started on port 7777
+[13/08/2025 19:27:58] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 19:27:58] [Warning] 	 Status: 406
+[13/08/2025 19:27:58] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:37457-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 19:27:58] [Warning] This won't affect the server's behaviour.
+[13/08/2025 19:28:10] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 19:28:10] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 19:28:10] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 19:30:34] [Info] Loading plugin: mysql
+[13/08/2025 19:30:34] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 19:30:34] [Info] Loading plugin: PawnPlus
+[13/08/2025 19:30:34] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 19:30:34] [Info]  Created by IS4
+[13/08/2025 19:30:34] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 19:30:34] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 19:30:34] [Info] 3
+
+[13/08/2025 19:30:34] [Info] 4
+
+[13/08/2025 19:30:34] [Info] Legacy Network started on port 7777
+[13/08/2025 19:30:35] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 19:30:35] [Warning] 	 Status: 406
+[13/08/2025 19:30:35] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:52918-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 19:30:35] [Warning] This won't affect the server's behaviour.
+[13/08/2025 19:30:40] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 19:30:40] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 19:30:40] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 19:33:59] [Info] Loading plugin: mysql
+[13/08/2025 19:33:59] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 19:33:59] [Info] Loading plugin: PawnPlus
+[13/08/2025 19:33:59] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 19:33:59] [Info]  Created by IS4
+[13/08/2025 19:33:59] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 19:33:59] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 19:34:00] [Info] 1. 4 - 1 = 3
+[13/08/2025 19:34:00] [Warning] Insufficient specifiers given to `printf`: "2. %d - %d' - 1 = %d" < 4
+[13/08/2025 19:34:00] [Info] 2. 4 - 0' - 1 = 1
+[13/08/2025 19:34:00] [Info] if array 5 > 3 then swap
+[13/08/2025 19:34:00] [Info] tmp: 5
+[13/08/2025 19:34:00] [Info] array 5 = 3
+[13/08/2025 19:34:00] [Info] array 3 = tmp
+[13/08/2025 19:34:00] [Info] if array 5 > 4 then swap
+[13/08/2025 19:34:00] [Info] tmp: 5
+[13/08/2025 19:34:00] [Info] array 5 = 4
+[13/08/2025 19:34:00] [Info] array 4 = tmp
+[13/08/2025 19:34:00] [Info] if array 5 > 2 then swap
+[13/08/2025 19:34:00] [Info] tmp: 5
+[13/08/2025 19:34:00] [Info] array 5 = 2
+[13/08/2025 19:34:00] [Info] array 2 = tmp
+[13/08/2025 19:34:00] [Warning] Insufficient specifiers given to `printf`: "2. %d - %d' - 1 = %d" < 4
+[13/08/2025 19:34:00] [Info] 2. 4 - 1' - 1 = 1
+[13/08/2025 19:34:00] [Info] if array 3 > 4 then swap
+[13/08/2025 19:34:00] [Info] if array 4 > 2 then swap
+[13/08/2025 19:34:00] [Info] tmp: 4
+[13/08/2025 19:34:00] [Info] array 4 = 2
+[13/08/2025 19:34:00] [Info] array 2 = tmp
+[13/08/2025 19:34:00] [Warning] Insufficient specifiers given to `printf`: "2. %d - %d' - 1 = %d" < 4
+[13/08/2025 19:34:00] [Info] 2. 4 - 2' - 1 = 1
+[13/08/2025 19:34:00] [Info] if array 3 > 2 then swap
+[13/08/2025 19:34:00] [Info] tmp: 3
+[13/08/2025 19:34:00] [Info] array 3 = 2
+[13/08/2025 19:34:00] [Info] array 2 = tmp
+[13/08/2025 19:34:00] [Info] Legacy Network started on port 7777
+[13/08/2025 19:34:00] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 19:34:00] [Warning] 	 Status: 406
+[13/08/2025 19:34:00] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:36194-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 19:34:00] [Warning] This won't affect the server's behaviour.
+[13/08/2025 19:34:24] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 19:34:24] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 19:34:24] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 19:34:26] [Info] Loading plugin: mysql
+[13/08/2025 19:34:26] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 19:34:26] [Info] Loading plugin: PawnPlus
+[13/08/2025 19:34:26] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 19:34:26] [Info]  Created by IS4
+[13/08/2025 19:34:26] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 19:34:26] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 19:34:26] [Info] 1. 4 - 1 = 3
+[13/08/2025 19:34:26] [Info] 2. 4 - 0' - 1 = 3
+[13/08/2025 19:34:26] [Info] if array 5 > 3 then swap
+[13/08/2025 19:34:26] [Info] tmp: 5
+[13/08/2025 19:34:26] [Info] array 5 = 3
+[13/08/2025 19:34:26] [Info] array 3 = tmp
+[13/08/2025 19:34:26] [Info] if array 5 > 4 then swap
+[13/08/2025 19:34:26] [Info] tmp: 5
+[13/08/2025 19:34:26] [Info] array 5 = 4
+[13/08/2025 19:34:26] [Info] array 4 = tmp
+[13/08/2025 19:34:26] [Info] if array 5 > 2 then swap
+[13/08/2025 19:34:26] [Info] tmp: 5
+[13/08/2025 19:34:26] [Info] array 5 = 2
+[13/08/2025 19:34:26] [Info] array 2 = tmp
+[13/08/2025 19:34:26] [Info] 2. 4 - 1' - 1 = 2
+[13/08/2025 19:34:26] [Info] if array 3 > 4 then swap
+[13/08/2025 19:34:26] [Info] if array 4 > 2 then swap
+[13/08/2025 19:34:26] [Info] tmp: 4
+[13/08/2025 19:34:26] [Info] array 4 = 2
+[13/08/2025 19:34:26] [Info] array 2 = tmp
+[13/08/2025 19:34:26] [Info] 2. 4 - 2' - 1 = 1
+[13/08/2025 19:34:26] [Info] if array 3 > 2 then swap
+[13/08/2025 19:34:26] [Info] tmp: 3
+[13/08/2025 19:34:26] [Info] array 3 = 2
+[13/08/2025 19:34:26] [Info] array 2 = tmp
+[13/08/2025 19:34:26] [Info] Legacy Network started on port 7777
+[13/08/2025 19:34:27] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 19:34:27] [Warning] 	 Status: 406
+[13/08/2025 19:34:27] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:59974-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 19:34:27] [Warning] This won't affect the server's behaviour.
+[13/08/2025 20:16:44] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 21:30:58] [Info] Loading plugin: mysql
+[13/08/2025 21:30:58] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 21:30:58] [Info] Loading plugin: sscanf
+[13/08/2025 21:30:58] [Info] 
+[13/08/2025 21:30:58] [Info]  ===============================
+[13/08/2025 21:30:58] [Info] 
+[13/08/2025 21:30:58] [Info]       sscanf plugin loaded.     
+[13/08/2025 21:30:58] [Info] 
+[13/08/2025 21:30:58] [Info]          Version: 2.13.8
+[13/08/2025 21:30:58] [Info] 
+[13/08/2025 21:30:58] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[13/08/2025 21:30:58] [Info] 
+[13/08/2025 21:30:58] [Info]  ===============================
+[13/08/2025 21:30:58] [Info] 
+[13/08/2025 21:30:58] [Info] Loading plugin: PawnPlus
+[13/08/2025 21:30:58] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 21:30:58] [Info]  Created by IS4
+[13/08/2025 21:30:58] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 21:30:58] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 21:30:58] [Info] >-------------------------------------------<
+[13/08/2025 21:30:58] [Info] >> Northwest Open.MP version N:1.0
+[13/08/2025 21:30:58] [Info] >> Author: github.com/Akennno
+[13/08/2025 21:30:58] [Info] >> Copyright (c) 2025, All rights reversed
+[13/08/2025 21:30:58] [Info] >-------------------------------------------<
+[13/08/2025 21:30:58] [Info] [N:MYSQL]: Connecting to MySQL server
+[13/08/2025 21:31:15] [Info] [N:MYSQL]: Connection refused
+[N:MYSQL]: Reason: Can't connect to MySQL server on 'localhost' (10061)
+[13/08/2025 21:31:15] [Info] [N:MYSQL]: Server automatically shutting down
+[13/08/2025 21:31:15] [Info] Legacy Network started on port 7777
+[13/08/2025 21:31:15] [Info] 
+[13/08/2025 21:31:15] [Info]  ===============================
+[13/08/2025 21:31:15] [Info] 
+[13/08/2025 21:31:15] [Info]      sscanf plugin unloaded.    
+[13/08/2025 21:31:15] [Info] 
+[13/08/2025 21:31:15] [Info]  ===============================
+[13/08/2025 21:31:15] [Info] 
+[13/08/2025 21:31:15] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 21:31:15] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 21:31:15] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 21:31:19] [Info] Loading plugin: mysql
+[13/08/2025 21:31:19] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 21:31:19] [Info] Loading plugin: sscanf
+[13/08/2025 21:31:19] [Info] 
+[13/08/2025 21:31:19] [Info]  ===============================
+[13/08/2025 21:31:19] [Info] 
+[13/08/2025 21:31:19] [Info]       sscanf plugin loaded.     
+[13/08/2025 21:31:19] [Info] 
+[13/08/2025 21:31:19] [Info]          Version: 2.13.8
+[13/08/2025 21:31:19] [Info] 
+[13/08/2025 21:31:19] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[13/08/2025 21:31:19] [Info] 
+[13/08/2025 21:31:19] [Info]  ===============================
+[13/08/2025 21:31:19] [Info] 
+[13/08/2025 21:31:19] [Info] Loading plugin: PawnPlus
+[13/08/2025 21:31:19] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 21:31:19] [Info]  Created by IS4
+[13/08/2025 21:31:19] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 21:31:19] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 21:31:19] [Info] Legacy Network started on port 7777
+[13/08/2025 21:31:19] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 21:31:19] [Warning] 	 Status: 406
+[13/08/2025 21:31:19] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:58750-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 21:31:19] [Warning] This won't affect the server's behaviour.
+[13/08/2025 21:32:20] [Info] [connection] incoming connection: 127.0.0.1:60114 id: 0
+[13/08/2025 21:32:21] [Info] [join] John_Karl has joined the server (0:127.0.0.1)
+[13/08/2025 21:33:08] [Info] [part] John_Karl has left the server (0:1)
+[13/08/2025 21:33:13] [Info] 
+[13/08/2025 21:33:13] [Info]  ===============================
+[13/08/2025 21:33:13] [Info] 
+[13/08/2025 21:33:13] [Info]      sscanf plugin unloaded.    
+[13/08/2025 21:33:13] [Info] 
+[13/08/2025 21:33:13] [Info]  ===============================
+[13/08/2025 21:33:13] [Info] 
+[13/08/2025 21:33:13] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 21:33:13] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 21:33:13] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 21:38:09] [Info] Loading plugin: mysql
+[13/08/2025 21:38:09] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 21:38:09] [Info] Loading plugin: sscanf
+[13/08/2025 21:38:09] [Info] 
+[13/08/2025 21:38:09] [Info]  ===============================
+[13/08/2025 21:38:09] [Info] 
+[13/08/2025 21:38:09] [Info]       sscanf plugin loaded.     
+[13/08/2025 21:38:09] [Info] 
+[13/08/2025 21:38:09] [Info]          Version: 2.13.8
+[13/08/2025 21:38:09] [Info] 
+[13/08/2025 21:38:09] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[13/08/2025 21:38:09] [Info] 
+[13/08/2025 21:38:09] [Info]  ===============================
+[13/08/2025 21:38:09] [Info] 
+[13/08/2025 21:38:09] [Info] Loading plugin: PawnPlus
+[13/08/2025 21:38:09] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 21:38:09] [Info]  Created by IS4
+[13/08/2025 21:38:09] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 21:38:09] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 21:38:09] [Info] Legacy Network started on port 7777
+[13/08/2025 21:38:10] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 21:38:10] [Warning] 	 Status: 406
+[13/08/2025 21:38:10] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:38414-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 21:38:10] [Warning] This won't affect the server's behaviour.
+[13/08/2025 21:38:20] [Info] [connection] incoming connection: 127.0.0.1:59471 id: 0
+[13/08/2025 21:38:20] [Info] [join] John_Karl has joined the server (0:127.0.0.1)
+[13/08/2025 21:39:51] [Info] 
+[13/08/2025 21:39:51] [Info]  ===============================
+[13/08/2025 21:39:51] [Info] 
+[13/08/2025 21:39:51] [Info]      sscanf plugin unloaded.    
+[13/08/2025 21:39:51] [Info] 
+[13/08/2025 21:39:51] [Info]  ===============================
+[13/08/2025 21:39:51] [Info] 
+[13/08/2025 21:39:51] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 21:39:51] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 21:39:51] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 21:47:20] [Info] Loading plugin: mysql
+[13/08/2025 21:47:20] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 21:47:20] [Info] Loading plugin: sscanf
+[13/08/2025 21:47:20] [Info] 
+[13/08/2025 21:47:20] [Info]  ===============================
+[13/08/2025 21:47:20] [Info] 
+[13/08/2025 21:47:20] [Info]       sscanf plugin loaded.     
+[13/08/2025 21:47:20] [Info] 
+[13/08/2025 21:47:20] [Info]          Version: 2.13.8
+[13/08/2025 21:47:20] [Info] 
+[13/08/2025 21:47:20] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[13/08/2025 21:47:20] [Info] 
+[13/08/2025 21:47:20] [Info]  ===============================
+[13/08/2025 21:47:20] [Info] 
+[13/08/2025 21:47:20] [Info] Loading plugin: PawnPlus
+[13/08/2025 21:47:20] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 21:47:20] [Info]  Created by IS4
+[13/08/2025 21:47:20] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 21:47:20] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 21:47:20] [Info] Legacy Network started on port 7777
+[13/08/2025 21:47:21] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 21:47:21] [Warning] 	 Status: 406
+[13/08/2025 21:47:21] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:42036-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 21:47:21] [Warning] This won't affect the server's behaviour.
+[13/08/2025 21:47:36] [Info] [connection] incoming connection: 127.0.0.1:50368 id: 0
+[13/08/2025 21:47:36] [Info] [join] John_Karl has joined the server (0:127.0.0.1)
+[13/08/2025 21:47:50] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:47:50] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "Format specifier does not match parameter count."
+[13/08/2025 21:47:56] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:48:00] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:48:06] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:48:15] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:48:21] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:48:25] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:48:25] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "Format specifier does not match parameter count."
+[13/08/2025 21:49:14] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:17] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:19] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:25] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:29] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:32] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:34] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:56] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "No default value found."
+[13/08/2025 21:49:56] [Info] sscanf warning (E:\northwest-rp\gamemodes\tmp.inc:18): "Format specifier does not match parameter count."
+[13/08/2025 21:50:03] [Info] [chat] [John_Karl]: q
+[13/08/2025 21:50:04] [Info] [part] John_Karl has left the server (0:1)
+[13/08/2025 21:50:26] [Info] 
+[13/08/2025 21:50:26] [Info]  ===============================
+[13/08/2025 21:50:26] [Info] 
+[13/08/2025 21:50:26] [Info]      sscanf plugin unloaded.    
+[13/08/2025 21:50:26] [Info] 
+[13/08/2025 21:50:26] [Info]  ===============================
+[13/08/2025 21:50:26] [Info] 
+[13/08/2025 21:50:26] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 21:50:26] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 21:50:26] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 22:08:56] [Info] Loading plugin: mysql
+[13/08/2025 22:08:56] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 22:08:56] [Info] Loading plugin: sscanf
+[13/08/2025 22:08:56] [Info] 
+[13/08/2025 22:08:56] [Info]  ===============================
+[13/08/2025 22:08:56] [Info] 
+[13/08/2025 22:08:56] [Info]       sscanf plugin loaded.     
+[13/08/2025 22:08:56] [Info] 
+[13/08/2025 22:08:56] [Info]          Version: 2.13.8
+[13/08/2025 22:08:56] [Info] 
+[13/08/2025 22:08:56] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[13/08/2025 22:08:56] [Info] 
+[13/08/2025 22:08:56] [Info]  ===============================
+[13/08/2025 22:08:56] [Info] 
+[13/08/2025 22:08:56] [Info] Loading plugin: PawnPlus
+[13/08/2025 22:08:56] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 22:08:56] [Info]  Created by IS4
+[13/08/2025 22:08:56] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 22:08:56] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 22:08:56] [Info] Legacy Network started on port 7777
+[13/08/2025 22:08:57] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 22:08:57] [Warning] 	 Status: 406
+[13/08/2025 22:08:57] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:54630-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 22:08:57] [Warning] This won't affect the server's behaviour.
+[13/08/2025 22:09:08] [Info] [connection] incoming connection: 127.0.0.1:61974 id: 0
+[13/08/2025 22:09:08] [Info] [join] John_Karl has joined the server (0:127.0.0.1)
+[13/08/2025 22:09:41] [Info] [part] John_Karl has left the server (0:1)
+[13/08/2025 22:10:09] [Info] 
+[13/08/2025 22:10:09] [Info]  ===============================
+[13/08/2025 22:10:09] [Info] 
+[13/08/2025 22:10:09] [Info]      sscanf plugin unloaded.    
+[13/08/2025 22:10:09] [Info] 
+[13/08/2025 22:10:09] [Info]  ===============================
+[13/08/2025 22:10:09] [Info] 
+[13/08/2025 22:10:09] [Info] plugin.mysql: Unloading plugin...
+[13/08/2025 22:10:09] [Info] plugin.mysql: Plugin unloaded.
+[13/08/2025 22:10:09] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[13/08/2025 22:10:11] [Info] Loading plugin: mysql
+[13/08/2025 22:10:11] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[13/08/2025 22:10:11] [Info] Loading plugin: sscanf
+[13/08/2025 22:10:11] [Info] 
+[13/08/2025 22:10:11] [Info]  ===============================
+[13/08/2025 22:10:11] [Info] 
+[13/08/2025 22:10:11] [Info]       sscanf plugin loaded.     
+[13/08/2025 22:10:11] [Info] 
+[13/08/2025 22:10:11] [Info]          Version: 2.13.8
+[13/08/2025 22:10:11] [Info] 
+[13/08/2025 22:10:11] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[13/08/2025 22:10:11] [Info] 
+[13/08/2025 22:10:11] [Info]  ===============================
+[13/08/2025 22:10:11] [Info] 
+[13/08/2025 22:10:11] [Info] Loading plugin: PawnPlus
+[13/08/2025 22:10:11] [Info]  PawnPlus v1.5.1 loaded
+[13/08/2025 22:10:11] [Info]  Created by IS4
+[13/08/2025 22:10:11] [Info] Loading plugin: samp_bcrypt
+[13/08/2025 22:10:11] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[13/08/2025 22:10:11] [Info] Legacy Network started on port 7777
+[13/08/2025 22:10:12] [Warning] Couldn't announce legacy network to open.mp list.
+[13/08/2025 22:10:12] [Warning] 	 Status: 406
+[13/08/2025 22:10:12] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:45818-\u003e103.176.94.251:7777: read: connection refused"}
+[13/08/2025 22:10:12] [Warning] This won't affect the server's behaviour.
+[13/08/2025 22:10:21] [Info] [connection] incoming connection: 127.0.0.1:65175 id: 0
+[13/08/2025 22:10:21] [Info] [join] John_Karl has joined the server (0:127.0.0.1)
+[13/08/2025 22:12:58] [Info] [chat] [John_Karl]: cls
+[13/08/2025 22:13:02] [Info] [part] John_Karl has left the server (0:1)
+[13/08/2025 22:28:12] [Info] 
+[13/08/2025 22:28:12] [Info]  ===============================
+[13/08/2025 22:28:12] [Info] 
+[13/08/2025 22:28:12] [Info]      sscanf plugin unloaded.    
+[13/08/2025 22:28:12] [Info] 
+[13/08/2025 22:28:12] [Info]  ===============================
+[13/08/2025 22:28:12] [Info] 
+[13/08/2025 22:28:12] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 11:33:54] [Info] Loading plugin: mysql
+[17/08/2025 11:33:54] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 11:33:54] [Info] Loading plugin: sscanf
+[17/08/2025 11:33:54] [Info] 
+[17/08/2025 11:33:54] [Info]  ===============================
+[17/08/2025 11:33:54] [Info] 
+[17/08/2025 11:33:54] [Info]       sscanf plugin loaded.     
+[17/08/2025 11:33:54] [Info] 
+[17/08/2025 11:33:54] [Info]          Version: 2.13.8
+[17/08/2025 11:33:54] [Info] 
+[17/08/2025 11:33:54] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 11:33:54] [Info] 
+[17/08/2025 11:33:54] [Info]  ===============================
+[17/08/2025 11:33:54] [Info] 
+[17/08/2025 11:33:54] [Info] Loading plugin: PawnPlus
+[17/08/2025 11:33:54] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 11:33:54] [Info]  Created by IS4
+[17/08/2025 11:33:54] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 11:33:54] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 11:33:54] [Info] Legacy Network started on port 7777
+[17/08/2025 11:33:55] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 11:33:55] [Warning] 	 Status: 406
+[17/08/2025 11:33:55] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:57821-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 11:33:55] [Warning] This won't affect the server's behaviour.
+[17/08/2025 11:34:23] [Info] [connection] incoming connection: 127.0.0.1:63903 id: 0
+[17/08/2025 11:34:23] [Info] [join] John_Karl has joined the server (0:127.0.0.1)
+[17/08/2025 11:34:23] [Info] Your Raw-IP: 16777343
+[17/08/2025 11:34:24] [Info] Your IP: 127.0.0.1
+[17/08/2025 11:34:36] [Info] [part] John_Karl has left the server (0:1)
+[17/08/2025 11:34:39] [Info] 
+[17/08/2025 11:34:39] [Info]  ===============================
+[17/08/2025 11:34:39] [Info] 
+[17/08/2025 11:34:39] [Info]      sscanf plugin unloaded.    
+[17/08/2025 11:34:39] [Info] 
+[17/08/2025 11:34:39] [Info]  ===============================
+[17/08/2025 11:34:39] [Info] 
+[17/08/2025 11:34:39] [Info] plugin.mysql: Unloading plugin...
+[17/08/2025 11:34:39] [Info] plugin.mysql: Plugin unloaded.
+[17/08/2025 11:34:39] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:23:03] [Info] Loading plugin: mysql
+[17/08/2025 17:23:03] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:23:03] [Info] Loading plugin: sscanf
+[17/08/2025 17:23:03] [Info] 
+[17/08/2025 17:23:03] [Info]  ===============================
+[17/08/2025 17:23:03] [Info] 
+[17/08/2025 17:23:03] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:23:03] [Info] 
+[17/08/2025 17:23:03] [Info]          Version: 2.13.8
+[17/08/2025 17:23:03] [Info] 
+[17/08/2025 17:23:03] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:23:03] [Info] 
+[17/08/2025 17:23:03] [Info]  ===============================
+[17/08/2025 17:23:03] [Info] 
+[17/08/2025 17:23:03] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:23:03] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:23:03] [Info]  Created by IS4
+[17/08/2025 17:23:03] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:23:03] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:23:03] [Info] >-------------------------------------------<
+[17/08/2025 17:23:03] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:23:03] [Info] >> Author: github.com/Akennno
+[17/08/2025 17:23:03] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:23:03] [Info] >-------------------------------------------<
+[17/08/2025 17:23:03] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:23:03] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:23:03] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:23:03] [Info] Legacy Network started on port 7777
+[17/08/2025 17:23:03] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:23:03] [Warning] 	 Status: 406
+[17/08/2025 17:23:03] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:58270-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:23:03] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:23:25] [Info] [connection] incoming connection: 127.0.0.1:64204 id: 0
+[17/08/2025 17:23:25] [Info] [join] John_Karl has joined the server (0:127.0.0.1)
+[17/08/2025 17:23:30] [Info] [part] John_Karl has left the server (0:1)
+[17/08/2025 17:23:42] [Info] [connection] incoming connection: 127.0.0.1:64205 id: 0
+[17/08/2025 17:23:42] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:23:45] [Info] [chat] [Noice]: tek
+[17/08/2025 17:23:47] [Info] [chat] [Noice]: taek
+[17/08/2025 17:23:50] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:24:14] [Info] 
+[17/08/2025 17:24:14] [Info]  ===============================
+[17/08/2025 17:24:14] [Info] 
+[17/08/2025 17:24:14] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:24:14] [Info] 
+[17/08/2025 17:24:14] [Info]  ===============================
+[17/08/2025 17:24:14] [Info] 
+[17/08/2025 17:24:14] [Info] plugin.mysql: Unloading plugin...
+[17/08/2025 17:24:14] [Info] plugin.mysql: Plugin unloaded.
+[17/08/2025 17:24:14] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:25:47] [Info] Loading plugin: mysql
+[17/08/2025 17:25:47] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:25:47] [Info] Loading plugin: sscanf
+[17/08/2025 17:25:47] [Info] 
+[17/08/2025 17:25:47] [Info]  ===============================
+[17/08/2025 17:25:47] [Info] 
+[17/08/2025 17:25:47] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:25:47] [Info] 
+[17/08/2025 17:25:47] [Info]          Version: 2.13.8
+[17/08/2025 17:25:47] [Info] 
+[17/08/2025 17:25:47] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:25:47] [Info] 
+[17/08/2025 17:25:47] [Info]  ===============================
+[17/08/2025 17:25:47] [Info] 
+[17/08/2025 17:25:47] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:25:47] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:25:47] [Info]  Created by IS4
+[17/08/2025 17:25:47] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:25:47] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:25:47] [Info] >-------------------------------------------<
+[17/08/2025 17:25:47] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:25:47] [Info] >> Author: Akennno
+[17/08/2025 17:25:47] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:25:47] [Info] >-------------------------------------------<
+[17/08/2025 17:25:47] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:25:47] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:25:47] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:25:47] [Info] Legacy Network started on port 7777
+[17/08/2025 17:25:47] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:25:47] [Warning] 	 Status: 406
+[17/08/2025 17:25:47] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:41929-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:25:47] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:25:57] [Info] [connection] incoming connection: 127.0.0.1:53288 id: 0
+[17/08/2025 17:25:58] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:25:58] [Info] [PawnPlus] pawn_register_callback: public function 'OnQueryError' was not found
+[17/08/2025 17:25:58] [Error] Native function failed
+[17/08/2025 17:26:01] [Info] [chat] [Noice]: babi
+[17/08/2025 17:26:15] [Info] [N:INFO] All online player has been kicked from server.
+[17/08/2025 17:26:15] [Info] 
+[17/08/2025 17:26:15] [Info]  ===============================
+[17/08/2025 17:26:15] [Info] 
+[17/08/2025 17:26:15] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:26:15] [Info] 
+[17/08/2025 17:26:15] [Info]  ===============================
+[17/08/2025 17:26:15] [Info] 
+[17/08/2025 17:26:15] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:27:24] [Info] Loading plugin: mysql
+[17/08/2025 17:27:25] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:27:25] [Info] Loading plugin: sscanf
+[17/08/2025 17:27:25] [Info] 
+[17/08/2025 17:27:25] [Info]  ===============================
+[17/08/2025 17:27:25] [Info] 
+[17/08/2025 17:27:25] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:27:25] [Info] 
+[17/08/2025 17:27:25] [Info]          Version: 2.13.8
+[17/08/2025 17:27:25] [Info] 
+[17/08/2025 17:27:25] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:27:25] [Info] 
+[17/08/2025 17:27:25] [Info]  ===============================
+[17/08/2025 17:27:25] [Info] 
+[17/08/2025 17:27:25] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:27:25] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:27:25] [Info]  Created by IS4
+[17/08/2025 17:27:25] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:27:25] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:27:25] [Info] >-------------------------------------------<
+[17/08/2025 17:27:25] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:27:25] [Info] >> Author: Akennno
+[17/08/2025 17:27:25] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:27:25] [Info] >-------------------------------------------<
+[17/08/2025 17:27:25] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:27:25] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:27:25] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:27:25] [Info] Legacy Network started on port 7777
+[17/08/2025 17:27:25] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:27:25] [Warning] 	 Status: 406
+[17/08/2025 17:27:25] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:48203-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:27:25] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:27:33] [Info] [connection] incoming connection: 127.0.0.1:55074 id: 0
+[17/08/2025 17:27:33] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:27:36] [Info] [part] Noice has left the server (0:2)
+[17/08/2025 17:28:33] [Info] 
+[17/08/2025 17:28:33] [Info]  ===============================
+[17/08/2025 17:28:33] [Info] 
+[17/08/2025 17:28:33] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:28:33] [Info] 
+[17/08/2025 17:28:33] [Info]  ===============================
+[17/08/2025 17:28:33] [Info] 
+[17/08/2025 17:28:33] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:29:45] [Info] Loading plugin: mysql
+[17/08/2025 17:29:45] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:29:45] [Info] Loading plugin: sscanf
+[17/08/2025 17:29:45] [Info] 
+[17/08/2025 17:29:45] [Info]  ===============================
+[17/08/2025 17:29:45] [Info] 
+[17/08/2025 17:29:45] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:29:45] [Info] 
+[17/08/2025 17:29:45] [Info]          Version: 2.13.8
+[17/08/2025 17:29:45] [Info] 
+[17/08/2025 17:29:45] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:29:45] [Info] 
+[17/08/2025 17:29:45] [Info]  ===============================
+[17/08/2025 17:29:45] [Info] 
+[17/08/2025 17:29:45] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:29:45] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:29:45] [Info]  Created by IS4
+[17/08/2025 17:29:45] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:29:45] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:29:45] [Info] >-------------------------------------------<
+[17/08/2025 17:29:45] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:29:45] [Info] >> Author: Akennno
+[17/08/2025 17:29:45] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:29:45] [Info] >-------------------------------------------<
+[17/08/2025 17:29:45] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:29:45] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:29:45] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:29:45] [Info] Legacy Network started on port 7777
+[17/08/2025 17:29:45] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:29:45] [Warning] 	 Status: 406
+[17/08/2025 17:29:45] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:58411-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:29:45] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:29:53] [Info] [connection] incoming connection: 127.0.0.1:62729 id: 0
+[17/08/2025 17:29:53] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:29:57] [Info] [PawnPlus] str_match: regex_error(error_range): The expression contained an invalid character range, such as [b-a] in most encodings. (range)
+[17/08/2025 17:29:57] [Error] Native function failed
+[17/08/2025 17:30:20] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:30:37] [Info] 
+[17/08/2025 17:30:37] [Info]  ===============================
+[17/08/2025 17:30:37] [Info] 
+[17/08/2025 17:30:37] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:30:37] [Info] 
+[17/08/2025 17:30:37] [Info]  ===============================
+[17/08/2025 17:30:37] [Info] 
+[17/08/2025 17:30:37] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:33:04] [Info] Loading plugin: mysql
+[17/08/2025 17:33:04] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:33:04] [Info] Loading plugin: sscanf
+[17/08/2025 17:33:04] [Info] 
+[17/08/2025 17:33:04] [Info]  ===============================
+[17/08/2025 17:33:04] [Info] 
+[17/08/2025 17:33:04] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:33:04] [Info] 
+[17/08/2025 17:33:04] [Info]          Version: 2.13.8
+[17/08/2025 17:33:04] [Info] 
+[17/08/2025 17:33:04] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:33:04] [Info] 
+[17/08/2025 17:33:04] [Info]  ===============================
+[17/08/2025 17:33:04] [Info] 
+[17/08/2025 17:33:04] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:33:04] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:33:04] [Info]  Created by IS4
+[17/08/2025 17:33:04] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:33:04] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:33:04] [Info] >-------------------------------------------<
+[17/08/2025 17:33:04] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:33:04] [Info] >> Author: Akennno
+[17/08/2025 17:33:04] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:33:04] [Info] >-------------------------------------------<
+[17/08/2025 17:33:04] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:33:04] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:33:04] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:33:04] [Info] Legacy Network started on port 7777
+[17/08/2025 17:33:05] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:33:05] [Warning] 	 Status: 406
+[17/08/2025 17:33:05] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:36340-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:33:05] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:33:17] [Info] [connection] incoming connection: 127.0.0.1:61845 id: 0
+[17/08/2025 17:33:17] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:33:20] [Info] [PawnPlus] str_match: regex_error(error_range): The expression contained an invalid character range, such as [b-a] in most encodings. (range)
+[17/08/2025 17:33:20] [Error] Native function failed
+[17/08/2025 17:33:26] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:33:36] [Info] 
+[17/08/2025 17:33:36] [Info]  ===============================
+[17/08/2025 17:33:36] [Info] 
+[17/08/2025 17:33:36] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:33:36] [Info] 
+[17/08/2025 17:33:36] [Info]  ===============================
+[17/08/2025 17:33:36] [Info] 
+[17/08/2025 17:33:36] [Info] plugin.mysql: Unloading plugin...
+[17/08/2025 17:33:36] [Info] plugin.mysql: Plugin unloaded.
+[17/08/2025 17:33:36] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:33:47] [Info] Loading plugin: mysql
+[17/08/2025 17:33:47] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:33:47] [Info] Loading plugin: sscanf
+[17/08/2025 17:33:47] [Info] 
+[17/08/2025 17:33:47] [Info]  ===============================
+[17/08/2025 17:33:47] [Info] 
+[17/08/2025 17:33:47] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:33:47] [Info] 
+[17/08/2025 17:33:47] [Info]          Version: 2.13.8
+[17/08/2025 17:33:47] [Info] 
+[17/08/2025 17:33:47] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:33:47] [Info] 
+[17/08/2025 17:33:47] [Info]  ===============================
+[17/08/2025 17:33:47] [Info] 
+[17/08/2025 17:33:47] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:33:47] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:33:47] [Info]  Created by IS4
+[17/08/2025 17:33:47] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:33:47] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:33:47] [Info] >-------------------------------------------<
+[17/08/2025 17:33:47] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:33:47] [Info] >> Author: Akennno
+[17/08/2025 17:33:47] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:33:47] [Info] >-------------------------------------------<
+[17/08/2025 17:33:47] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:33:47] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:33:47] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:33:47] [Info] Legacy Network started on port 7777
+[17/08/2025 17:33:48] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:33:48] [Warning] 	 Status: 406
+[17/08/2025 17:33:48] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:32833-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:33:48] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:33:58] [Info] [connection] incoming connection: 127.0.0.1:50089 id: 0
+[17/08/2025 17:33:58] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:34:01] [Info] [PawnPlus] str_match: regex_error(error_range): The expression contained an invalid character range, such as [b-a] in most encodings. (range)
+[17/08/2025 17:34:01] [Error] Native function failed
+[17/08/2025 17:34:05] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:34:06] [Info] 
+[17/08/2025 17:34:07] [Info]  ===============================
+[17/08/2025 17:34:07] [Info] 
+[17/08/2025 17:34:07] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:34:07] [Info] 
+[17/08/2025 17:34:07] [Info]  ===============================
+[17/08/2025 17:34:07] [Info] 
+[17/08/2025 17:34:07] [Info] plugin.mysql: Unloading plugin...
+[17/08/2025 17:34:07] [Info] plugin.mysql: Plugin unloaded.
+[17/08/2025 17:34:07] [Info]  PawnPlus v1.5.1 unloaded
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:35:20] [Info] Loading plugin: mysql
+[17/08/2025 17:35:20] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:35:20] [Info] Loading plugin: sscanf
+[17/08/2025 17:35:20] [Info] 
+[17/08/2025 17:35:20] [Info]  ===============================
+[17/08/2025 17:35:20] [Info] 
+[17/08/2025 17:35:20] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:35:20] [Info] 
+[17/08/2025 17:35:20] [Info]          Version: 2.13.8
+[17/08/2025 17:35:20] [Info] 
+[17/08/2025 17:35:20] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:35:20] [Info] 
+[17/08/2025 17:35:20] [Info]  ===============================
+[17/08/2025 17:35:20] [Info] 
+[17/08/2025 17:35:20] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:35:20] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:35:20] [Info]  Created by IS4
+[17/08/2025 17:35:20] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:35:20] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:35:20] [Info] >-------------------------------------------<
+[17/08/2025 17:35:20] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:35:20] [Info] >> Author: Akennno
+[17/08/2025 17:35:20] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:35:20] [Info] >-------------------------------------------<
+[17/08/2025 17:35:20] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:35:20] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:35:20] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:35:20] [Info] Legacy Network started on port 7777
+[17/08/2025 17:35:21] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:35:21] [Warning] 	 Status: 406
+[17/08/2025 17:35:21] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:38025-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:35:21] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:35:28] [Info] [connection] incoming connection: 127.0.0.1:53902 id: 0
+[17/08/2025 17:35:28] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:35:52] [Info] [chat] [Noice]: q
+[17/08/2025 17:35:53] [Info] [chat] [Noice]: q
+[17/08/2025 17:35:53] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:36:03] [Info] [connection] incoming connection: 127.0.0.1:57290 id: 0
+[17/08/2025 17:36:03] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:36:46] [Info] [chat] [Noice]: q
+[17/08/2025 17:36:47] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:36:50] [Info] 
+[17/08/2025 17:36:50] [Info]  ===============================
+[17/08/2025 17:36:50] [Info] 
+[17/08/2025 17:36:50] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:36:50] [Info] 
+[17/08/2025 17:36:50] [Info]  ===============================
+[17/08/2025 17:36:50] [Info] 
+[17/08/2025 17:36:50] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:40:09] [Info] Loading plugin: mysql
+[17/08/2025 17:40:09] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:40:09] [Info] Loading plugin: sscanf
+[17/08/2025 17:40:09] [Info] 
+[17/08/2025 17:40:09] [Info]  ===============================
+[17/08/2025 17:40:09] [Info] 
+[17/08/2025 17:40:09] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:40:09] [Info] 
+[17/08/2025 17:40:09] [Info]          Version: 2.13.8
+[17/08/2025 17:40:09] [Info] 
+[17/08/2025 17:40:09] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:40:09] [Info] 
+[17/08/2025 17:40:09] [Info]  ===============================
+[17/08/2025 17:40:09] [Info] 
+[17/08/2025 17:40:09] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:40:09] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:40:09] [Info]  Created by IS4
+[17/08/2025 17:40:09] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:40:09] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:40:09] [Info] >-------------------------------------------<
+[17/08/2025 17:40:09] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:40:09] [Info] >> Author: Akennno
+[17/08/2025 17:40:09] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:40:09] [Info] >-------------------------------------------<
+[17/08/2025 17:40:09] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:40:09] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:40:09] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:40:09] [Info] Legacy Network started on port 7777
+[17/08/2025 17:40:09] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:40:09] [Warning] 	 Status: 406
+[17/08/2025 17:40:09] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:59886-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:40:09] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:40:17] [Info] [connection] incoming connection: 127.0.0.1:64025 id: 0
+[17/08/2025 17:40:17] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:40:21] [Info] [SampBcrypt] [error]: OnPasswordVerfying => InvalidHash("")
+[17/08/2025 17:40:51] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:41:05] [Info] 
+[17/08/2025 17:41:05] [Info]  ===============================
+[17/08/2025 17:41:05] [Info] 
+[17/08/2025 17:41:05] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:41:05] [Info] 
+[17/08/2025 17:41:05] [Info]  ===============================
+[17/08/2025 17:41:05] [Info] 
+[17/08/2025 17:41:05] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:41:23] [Info] Loading plugin: mysql
+[17/08/2025 17:41:23] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:41:23] [Info] Loading plugin: sscanf
+[17/08/2025 17:41:23] [Info] 
+[17/08/2025 17:41:23] [Info]  ===============================
+[17/08/2025 17:41:23] [Info] 
+[17/08/2025 17:41:23] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:41:23] [Info] 
+[17/08/2025 17:41:23] [Info]          Version: 2.13.8
+[17/08/2025 17:41:23] [Info] 
+[17/08/2025 17:41:23] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:41:23] [Info] 
+[17/08/2025 17:41:23] [Info]  ===============================
+[17/08/2025 17:41:23] [Info] 
+[17/08/2025 17:41:23] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:41:23] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:41:23] [Info]  Created by IS4
+[17/08/2025 17:41:23] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:41:23] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:41:23] [Info] >-------------------------------------------<
+[17/08/2025 17:41:23] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:41:23] [Info] >> Author: Akennno
+[17/08/2025 17:41:23] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:41:23] [Info] >-------------------------------------------<
+[17/08/2025 17:41:23] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:41:23] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:41:23] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:41:23] [Info] Legacy Network started on port 7777
+[17/08/2025 17:41:24] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:41:24] [Warning] 	 Status: 406
+[17/08/2025 17:41:24] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:43316-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:41:24] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:41:32] [Info] [connection] incoming connection: 127.0.0.1:60626 id: 0
+[17/08/2025 17:41:32] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:41:36] [Info] [PawnPlus] task_delete: task reference is invalid (value 0x424EF6C)
+[17/08/2025 17:41:47] [Info] [chat] [Noice]: babi
+[17/08/2025 17:41:48] [Info] [chat] [Noice]: t
+[17/08/2025 17:41:49] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:42:50] [Info] 
+[17/08/2025 17:42:50] [Info]  ===============================
+[17/08/2025 17:42:50] [Info] 
+[17/08/2025 17:42:50] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:42:50] [Info] 
+[17/08/2025 17:42:50] [Info]  ===============================
+[17/08/2025 17:42:50] [Info] 
+[17/08/2025 17:42:50] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:42:53] [Info] Loading plugin: mysql
+[17/08/2025 17:42:53] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:42:53] [Info] Loading plugin: sscanf
+[17/08/2025 17:42:53] [Info] 
+[17/08/2025 17:42:53] [Info]  ===============================
+[17/08/2025 17:42:53] [Info] 
+[17/08/2025 17:42:53] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:42:53] [Info] 
+[17/08/2025 17:42:53] [Info]          Version: 2.13.8
+[17/08/2025 17:42:53] [Info] 
+[17/08/2025 17:42:53] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:42:53] [Info] 
+[17/08/2025 17:42:53] [Info]  ===============================
+[17/08/2025 17:42:53] [Info] 
+[17/08/2025 17:42:53] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:42:53] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:42:53] [Info]  Created by IS4
+[17/08/2025 17:42:53] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:42:53] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:42:53] [Info] >-------------------------------------------<
+[17/08/2025 17:42:53] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:42:53] [Info] >> Author: Akennno
+[17/08/2025 17:42:53] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:42:53] [Info] >-------------------------------------------<
+[17/08/2025 17:42:53] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:42:53] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:42:53] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:42:53] [Error] Unable to start legacy network on port 7777. Port in use?
+[17/08/2025 17:43:05] [Info] 
+[17/08/2025 17:43:05] [Info]  ===============================
+[17/08/2025 17:43:05] [Info] 
+[17/08/2025 17:43:05] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:43:05] [Info] 
+[17/08/2025 17:43:05] [Info]  ===============================
+[17/08/2025 17:43:05] [Info] 
+[17/08/2025 17:43:05] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:43:09] [Info] Loading plugin: mysql
+[17/08/2025 17:43:09] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:43:09] [Info] Loading plugin: sscanf
+[17/08/2025 17:43:09] [Info] 
+[17/08/2025 17:43:09] [Info]  ===============================
+[17/08/2025 17:43:09] [Info] 
+[17/08/2025 17:43:09] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:43:09] [Info] 
+[17/08/2025 17:43:09] [Info]          Version: 2.13.8
+[17/08/2025 17:43:09] [Info] 
+[17/08/2025 17:43:09] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:43:09] [Info] 
+[17/08/2025 17:43:09] [Info]  ===============================
+[17/08/2025 17:43:09] [Info] 
+[17/08/2025 17:43:09] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:43:09] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:43:09] [Info]  Created by IS4
+[17/08/2025 17:43:09] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:43:09] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:43:09] [Info] >-------------------------------------------<
+[17/08/2025 17:43:09] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:43:09] [Info] >> Author: Akennno
+[17/08/2025 17:43:09] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:43:09] [Info] >-------------------------------------------<
+[17/08/2025 17:43:09] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:43:09] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:43:09] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:43:09] [Info] Legacy Network started on port 7777
+[17/08/2025 17:43:09] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:43:09] [Warning] 	 Status: 406
+[17/08/2025 17:43:09] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:59412-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:43:09] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:43:16] [Info] [connection] incoming connection: 127.0.0.1:56781 id: 0
+[17/08/2025 17:43:16] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:43:30] [Info] sscanf error: System not initialised.
+[17/08/2025 17:43:52] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:44:05] [Info] [connection] incoming connection: 127.0.0.1:50011 id: 0
+[17/08/2025 17:44:05] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:44:16] [Info] sscanf error: System not initialised.
+[17/08/2025 17:44:25] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:48:02] [Info] 
+[17/08/2025 17:48:02] [Info]  ===============================
+[17/08/2025 17:48:02] [Info] 
+[17/08/2025 17:48:02] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:48:02] [Info] 
+[17/08/2025 17:48:02] [Info]  ===============================
+[17/08/2025 17:48:02] [Info] 
+[17/08/2025 17:48:02] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:48:05] [Info] Loading plugin: mysql
+[17/08/2025 17:48:05] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:48:05] [Info] Loading plugin: sscanf
+[17/08/2025 17:48:05] [Info] 
+[17/08/2025 17:48:05] [Info]  ===============================
+[17/08/2025 17:48:05] [Info] 
+[17/08/2025 17:48:05] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:48:05] [Info] 
+[17/08/2025 17:48:05] [Info]          Version: 2.13.8
+[17/08/2025 17:48:05] [Info] 
+[17/08/2025 17:48:05] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:48:05] [Info] 
+[17/08/2025 17:48:05] [Info]  ===============================
+[17/08/2025 17:48:05] [Info] 
+[17/08/2025 17:48:05] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:48:05] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:48:05] [Info]  Created by IS4
+[17/08/2025 17:48:05] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:48:05] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:48:05] [Info] >-------------------------------------------<
+[17/08/2025 17:48:05] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:48:05] [Info] >> Author: Akennno
+[17/08/2025 17:48:05] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:48:05] [Info] >-------------------------------------------<
+[17/08/2025 17:48:05] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:48:05] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:48:05] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:48:05] [Error] Unable to start legacy network on port 7777. Port in use?
+[17/08/2025 17:48:08] [Info] 
+[17/08/2025 17:48:08] [Info]  ===============================
+[17/08/2025 17:48:08] [Info] 
+[17/08/2025 17:48:08] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:48:08] [Info] 
+[17/08/2025 17:48:08] [Info]  ===============================
+[17/08/2025 17:48:08] [Info] 
+[17/08/2025 17:48:08] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:48:12] [Info] Loading plugin: mysql
+[17/08/2025 17:48:13] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:48:13] [Info] Loading plugin: sscanf
+[17/08/2025 17:48:13] [Info] 
+[17/08/2025 17:48:13] [Info]  ===============================
+[17/08/2025 17:48:13] [Info] 
+[17/08/2025 17:48:13] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:48:13] [Info] 
+[17/08/2025 17:48:13] [Info]          Version: 2.13.8
+[17/08/2025 17:48:13] [Info] 
+[17/08/2025 17:48:13] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:48:13] [Info] 
+[17/08/2025 17:48:13] [Info]  ===============================
+[17/08/2025 17:48:13] [Info] 
+[17/08/2025 17:48:13] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:48:13] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:48:13] [Info]  Created by IS4
+[17/08/2025 17:48:13] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:48:13] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:48:13] [Info] >-------------------------------------------<
+[17/08/2025 17:48:13] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:48:13] [Info] >> Author: Akennno
+[17/08/2025 17:48:13] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:48:13] [Info] >-------------------------------------------<
+[17/08/2025 17:48:13] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:48:13] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:48:13] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:48:13] [Info] Legacy Network started on port 7777
+[17/08/2025 17:48:13] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:48:13] [Warning] 	 Status: 406
+[17/08/2025 17:48:13] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:40772-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:48:13] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:48:17] [Info] [connection] incoming connection: 127.0.0.1:55793 id: 0
+[17/08/2025 17:48:17] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:48:22] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:48:36] [Info] [connection] incoming connection: 127.0.0.1:55794 id: 0
+[17/08/2025 17:48:36] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:48:44] [Info] sscanf warning (lib\player\player-character.inc:135): "Format specifier does not match parameter count: p."
+[17/08/2025 17:48:58] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 17:49:13] [Info] 
+[17/08/2025 17:49:13] [Info]  ===============================
+[17/08/2025 17:49:13] [Info] 
+[17/08/2025 17:49:13] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:49:13] [Info] 
+[17/08/2025 17:49:13] [Info]  ===============================
+[17/08/2025 17:49:13] [Info] 
+[17/08/2025 17:49:13] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:50:13] [Info] Loading plugin: mysql
+[17/08/2025 17:50:13] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:50:13] [Info] Loading plugin: sscanf
+[17/08/2025 17:50:13] [Info] 
+[17/08/2025 17:50:13] [Info]  ===============================
+[17/08/2025 17:50:13] [Info] 
+[17/08/2025 17:50:13] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:50:13] [Info] 
+[17/08/2025 17:50:13] [Info]          Version: 2.13.8
+[17/08/2025 17:50:13] [Info] 
+[17/08/2025 17:50:13] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:50:13] [Info] 
+[17/08/2025 17:50:13] [Info]  ===============================
+[17/08/2025 17:50:13] [Info] 
+[17/08/2025 17:50:13] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:50:13] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:50:13] [Info]  Created by IS4
+[17/08/2025 17:50:13] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:50:13] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:50:13] [Info] >-------------------------------------------<
+[17/08/2025 17:50:13] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:50:13] [Info] >> Author: Akennno
+[17/08/2025 17:50:13] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:50:13] [Info] >-------------------------------------------<
+[17/08/2025 17:50:13] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:50:13] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:50:13] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:50:13] [Info] Legacy Network started on port 7777
+[17/08/2025 17:50:13] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:50:13] [Warning] 	 Status: 406
+[17/08/2025 17:50:13] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:48084-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:50:13] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:50:20] [Info] [connection] incoming connection: 127.0.0.1:49866 id: 0
+[17/08/2025 17:50:20] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:51:23] [Info] [chat] [Jhon_Doe]: q
+[17/08/2025 17:51:23] [Info] [chat] [Jhon_Doe]: q
+[17/08/2025 17:51:24] [Info] [part] Jhon_Doe has left the server (0:1)
+[17/08/2025 17:51:27] [Info] 
+[17/08/2025 17:51:27] [Info]  ===============================
+[17/08/2025 17:51:27] [Info] 
+[17/08/2025 17:51:27] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:51:27] [Info] 
+[17/08/2025 17:51:27] [Info]  ===============================
+[17/08/2025 17:51:27] [Info] 
+[17/08/2025 17:51:27] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 17:54:36] [Info] Loading plugin: mysql
+[17/08/2025 17:54:36] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 17:54:36] [Info] Loading plugin: sscanf
+[17/08/2025 17:54:36] [Info] 
+[17/08/2025 17:54:36] [Info]  ===============================
+[17/08/2025 17:54:36] [Info] 
+[17/08/2025 17:54:36] [Info]       sscanf plugin loaded.     
+[17/08/2025 17:54:36] [Info] 
+[17/08/2025 17:54:36] [Info]          Version: 2.13.8
+[17/08/2025 17:54:36] [Info] 
+[17/08/2025 17:54:36] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 17:54:36] [Info] 
+[17/08/2025 17:54:36] [Info]  ===============================
+[17/08/2025 17:54:36] [Info] 
+[17/08/2025 17:54:36] [Info] Loading plugin: PawnPlus
+[17/08/2025 17:54:36] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 17:54:36] [Info]  Created by IS4
+[17/08/2025 17:54:36] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 17:54:36] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 17:54:36] [Info] >-------------------------------------------<
+[17/08/2025 17:54:36] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 17:54:36] [Info] >> Author: Akennno
+[17/08/2025 17:54:36] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 17:54:36] [Info] >-------------------------------------------<
+[17/08/2025 17:54:36] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 17:54:36] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 17:54:36] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 17:54:36] [Info] Legacy Network started on port 7777
+[17/08/2025 17:54:37] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 17:54:37] [Warning] 	 Status: 406
+[17/08/2025 17:54:37] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:36216-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 17:54:37] [Warning] This won't affect the server's behaviour.
+[17/08/2025 17:54:44] [Info] [connection] incoming connection: 127.0.0.1:51715 id: 0
+[17/08/2025 17:54:44] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:54:59] [Info] [death] Jhon_Doe died 255
+[17/08/2025 17:55:05] [Info] [chat] [Jhon_Doe]: q
+[17/08/2025 17:55:06] [Info] [part] Jhon_Doe has left the server (0:1)
+[17/08/2025 17:55:15] [Info] [connection] incoming connection: 127.0.0.1:51716 id: 0
+[17/08/2025 17:55:15] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 17:55:25] [Info] [part] Jhon_D has left the server (0:1)
+[17/08/2025 17:55:33] [Info] 
+[17/08/2025 17:55:33] [Info]  ===============================
+[17/08/2025 17:55:33] [Info] 
+[17/08/2025 17:55:33] [Info]      sscanf plugin unloaded.    
+[17/08/2025 17:55:33] [Info] 
+[17/08/2025 17:55:33] [Info]  ===============================
+[17/08/2025 17:55:33] [Info] 
+[17/08/2025 17:55:33] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 18:03:53] [Info] Loading plugin: mysql
+[17/08/2025 18:03:53] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 18:03:53] [Info] Loading plugin: sscanf
+[17/08/2025 18:03:53] [Info] 
+[17/08/2025 18:03:53] [Info]  ===============================
+[17/08/2025 18:03:53] [Info] 
+[17/08/2025 18:03:53] [Info]       sscanf plugin loaded.     
+[17/08/2025 18:03:53] [Info] 
+[17/08/2025 18:03:53] [Info]          Version: 2.13.8
+[17/08/2025 18:03:53] [Info] 
+[17/08/2025 18:03:53] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 18:03:53] [Info] 
+[17/08/2025 18:03:53] [Info]  ===============================
+[17/08/2025 18:03:53] [Info] 
+[17/08/2025 18:03:53] [Info] Loading plugin: PawnPlus
+[17/08/2025 18:03:53] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 18:03:53] [Info]  Created by IS4
+[17/08/2025 18:03:53] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 18:03:53] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 18:03:53] [Info] >-------------------------------------------<
+[17/08/2025 18:03:53] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 18:03:53] [Info] >> Author: Akennno
+[17/08/2025 18:03:53] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 18:03:53] [Info] >-------------------------------------------<
+[17/08/2025 18:03:53] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 18:03:53] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 18:03:53] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 18:03:53] [Info] Legacy Network started on port 7777
+[17/08/2025 18:03:53] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 18:03:53] [Warning] 	 Status: 406
+[17/08/2025 18:03:53] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:55738-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 18:03:53] [Warning] This won't affect the server's behaviour.
+[17/08/2025 18:04:01] [Info] [connection] incoming connection: 127.0.0.1:57413 id: 0
+[17/08/2025 18:04:01] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 18:04:10] [Info] [death] Jhon_D died 255
+[17/08/2025 18:04:11] [Warning] RCON (In-Game): Player #0 (Jhon_D) has logged in.
+[17/08/2025 18:04:19] [Info] [chat] [Jhon_D]: yow
+[17/08/2025 18:04:20] [Info] Berhasil menyimpan data player 'Jhon_D'
+[17/08/2025 18:04:20] [Info] [part] Jhon_D has left the server (0:1)
+[17/08/2025 18:04:30] [Info] [connection] incoming connection: 127.0.0.1:57414 id: 0
+[17/08/2025 18:04:30] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 18:04:34] [Info] Berhasil menyimpan data player 'Jhon_D'
+[17/08/2025 18:04:34] [Info] [part] Jhon_D has left the server (0:1)
+[17/08/2025 18:05:58] [Info] 
+[17/08/2025 18:05:58] [Info]  ===============================
+[17/08/2025 18:05:58] [Info] 
+[17/08/2025 18:05:58] [Info]      sscanf plugin unloaded.    
+[17/08/2025 18:05:58] [Info] 
+[17/08/2025 18:05:58] [Info]  ===============================
+[17/08/2025 18:05:58] [Info] 
+[17/08/2025 18:05:58] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 18:06:25] [Info] Loading plugin: mysql
+[17/08/2025 18:06:25] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 18:06:25] [Info] Loading plugin: sscanf
+[17/08/2025 18:06:25] [Info] 
+[17/08/2025 18:06:25] [Info]  ===============================
+[17/08/2025 18:06:25] [Info] 
+[17/08/2025 18:06:25] [Info]       sscanf plugin loaded.     
+[17/08/2025 18:06:25] [Info] 
+[17/08/2025 18:06:25] [Info]          Version: 2.13.8
+[17/08/2025 18:06:25] [Info] 
+[17/08/2025 18:06:25] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 18:06:25] [Info] 
+[17/08/2025 18:06:25] [Info]  ===============================
+[17/08/2025 18:06:25] [Info] 
+[17/08/2025 18:06:25] [Info] Loading plugin: PawnPlus
+[17/08/2025 18:06:25] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 18:06:25] [Info]  Created by IS4
+[17/08/2025 18:06:25] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 18:06:25] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 18:06:25] [Info] >-------------------------------------------<
+[17/08/2025 18:06:25] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 18:06:25] [Info] >> Author: Akennno
+[17/08/2025 18:06:25] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 18:06:25] [Info] >-------------------------------------------<
+[17/08/2025 18:06:25] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 18:06:25] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 18:06:25] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 18:06:25] [Info] Legacy Network started on port 7777
+[17/08/2025 18:06:26] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 18:06:26] [Warning] 	 Status: 406
+[17/08/2025 18:06:26] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:35214-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 18:06:26] [Warning] This won't affect the server's behaviour.
+[17/08/2025 18:06:33] [Info] [connection] incoming connection: 127.0.0.1:54665 id: 0
+[17/08/2025 18:06:33] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 18:06:41] [Info] [death] Jhon_D died 255
+[17/08/2025 18:06:42] [Warning] RCON (In-Game): Player #0 (Jhon_D) has logged in.
+[17/08/2025 18:06:48] [Info] [chat] [Jhon_D]: yaw
+[17/08/2025 18:06:49] [Info] Berhasil menyimpan data player 'Jhon_D'
+[17/08/2025 18:06:49] [Info] [part] Jhon_D has left the server (0:1)
+[17/08/2025 18:06:55] [Info] [connection] incoming connection: 127.0.0.1:54668 id: 0
+[17/08/2025 18:06:55] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 18:07:06] [Info] Berhasil menyimpan data player 'Jhon_D'
+[17/08/2025 18:07:06] [Info] [part] Jhon_D has left the server (0:1)
+[17/08/2025 18:07:22] [Info] [connection] incoming connection: 127.0.0.1:64441 id: 0
+[17/08/2025 18:07:22] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 18:09:22] [Info] Berhasil menyimpan data player 'Noice'
+[17/08/2025 18:09:22] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 18:09:24] [Info] 
+[17/08/2025 18:09:24] [Info]  ===============================
+[17/08/2025 18:09:24] [Info] 
+[17/08/2025 18:09:24] [Info]      sscanf plugin unloaded.    
+[17/08/2025 18:09:24] [Info] 
+[17/08/2025 18:09:24] [Info]  ===============================
+[17/08/2025 18:09:24] [Info] 
+[17/08/2025 18:09:24] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.4.0.2783) from commit 601de2e1c8da86ff7979821a82bce20568d547dc
+Loading component Actors.dll
+	Successfully loaded component Actors (1.4.0.2783) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.4.0.2783) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.4.0.2783) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.4.0.2783) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.4.0.2783) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.4.0.2783) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.4.0.2783) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.4.0.2783) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.4.0.2783) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.4.0.2783) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.4.0.2783) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.4.0.2783) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.4.0.2783) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.4.0.2783) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.4.0.2783) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.4.0.2783) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.4.0.2783) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.4.0.2783) with UID 2ad8124c5ea257a3
+Loading component Variables.dll
+	Successfully loaded component Variables (1.4.0.2783) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.4.0.2783) with UID 3f1f62ee9e22ab19
+Loaded 20 component(s) from E:\northwest-rp\components
+[17/08/2025 18:09:51] [Info] Loading plugin: mysql
+[17/08/2025 18:09:51] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[17/08/2025 18:09:51] [Info] Loading plugin: sscanf
+[17/08/2025 18:09:51] [Info] 
+[17/08/2025 18:09:51] [Info]  ===============================
+[17/08/2025 18:09:51] [Info] 
+[17/08/2025 18:09:51] [Info]       sscanf plugin loaded.     
+[17/08/2025 18:09:51] [Info] 
+[17/08/2025 18:09:51] [Info]          Version: 2.13.8
+[17/08/2025 18:09:51] [Info] 
+[17/08/2025 18:09:51] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[17/08/2025 18:09:51] [Info] 
+[17/08/2025 18:09:51] [Info]  ===============================
+[17/08/2025 18:09:51] [Info] 
+[17/08/2025 18:09:51] [Info] Loading plugin: PawnPlus
+[17/08/2025 18:09:51] [Info]  PawnPlus v1.5.1 loaded
+[17/08/2025 18:09:51] [Info]  Created by IS4
+[17/08/2025 18:09:51] [Info] Loading plugin: samp_bcrypt
+[17/08/2025 18:09:51] [Info] [SampBcrypt] [info]: Version: 0.4.1
+[17/08/2025 18:09:51] [Info] >-------------------------------------------<
+[17/08/2025 18:09:51] [Info] >> Northwest Open.MP version N:1.0
+[17/08/2025 18:09:51] [Info] >> Author: Akennno
+[17/08/2025 18:09:51] [Info] >> Copyright (c) 2025, All rights reversed
+[17/08/2025 18:09:51] [Info] >-------------------------------------------<
+[17/08/2025 18:09:51] [Info] [N:MYSQL]: Connecting to MySQL server
+[17/08/2025 18:09:51] [Info] [N:MYSQL]: Successfully connected to MySQL server!
+[17/08/2025 18:09:51] [Info] [N:MYSQL]: Fetching server data from database... 
+[17/08/2025 18:09:51] [Info] Legacy Network started on port 7777
+[17/08/2025 18:09:57] [Warning] Couldn't announce legacy network to open.mp list.
+[17/08/2025 18:09:57] [Warning] 	 Status: 406
+[17/08/2025 18:09:57] [Warning] 	 Message: {"error":"failed to query server: failed to read response: read udp 172.19.131.234:57659-\u003e103.176.94.251:7777: read: connection refused"}
+[17/08/2025 18:09:57] [Warning] This won't affect the server's behaviour.
+[17/08/2025 18:09:59] [Info] [connection] incoming connection: 127.0.0.1:61415 id: 0
+[17/08/2025 18:09:59] [Info] [join] Noice has joined the server (0:127.0.0.1)
+[17/08/2025 18:10:38] [Info] Berhasil menyimpan data player 'Noice'
+[17/08/2025 18:10:38] [Info] [part] Noice has left the server (0:1)
+[17/08/2025 18:10:42] [Info] 
+[17/08/2025 18:10:42] [Info]  ===============================
+[17/08/2025 18:10:42] [Info] 
+[17/08/2025 18:10:42] [Info]      sscanf plugin unloaded.    
+[17/08/2025 18:10:42] [Info] 
+[17/08/2025 18:10:42] [Info]  ===============================
+[17/08/2025 18:10:42] [Info] 
+[17/08/2025 18:10:42] [Info] plugin.mysql: Unloading plugin...
