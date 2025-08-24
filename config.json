@@ -64,7 +64,7 @@
         "use_prefix": true,
         "use_timestamp": true
     },
-    "max_bots": 0,
+    "max_bots": 10,
     "max_players": 4,
     "name": "An error occured, when starting your server",
     "network": {
@@ -102,7 +102,7 @@
             "samp_bcrypt"
         ],
         "main_scripts": [
-            "northwest-main 1"
+            "test 1"
         ],
         "side_scripts": [""]
     },

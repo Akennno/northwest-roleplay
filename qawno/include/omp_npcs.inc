@@ -94,7 +94,7 @@ native bool:NPC_ResetPath(pathid);
 native bool:NPC_IsValidPath(pathid);
 native bool:NPC_PathHasNextPoint(pathid);
 native bool:NPC_GetPathNextPoint(pathid, &Float:x, &Float:y, &Float:z, &Float:stopRange);
-native bool:NPC_MoveByPath(npcid, pathid, moveType, moveSpeed = -1.0);
+native bool:NPC_MoveByPath(npcid, pathid, moveType, Float:moveSpeed = -1.0);
 
 
 // Callbacks
